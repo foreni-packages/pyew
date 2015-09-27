@@ -1,0 +1,1 @@
+Download the software and run as : ./pyew by going to the directory
